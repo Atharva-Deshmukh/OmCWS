@@ -1,12 +1,12 @@
 import './App.css';
-import Count from './Add';
+import Marks from './Prac5';
+
 
 
 function App() {
   return (
     <>
-      
-   <Count/>
+ <Marks/>
 
     </>
   );
