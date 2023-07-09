@@ -1,12 +1,11 @@
 import './App.css';
-import Marks from './Prac5';
-
+import Increment from './Increment';
 
 
 function App() {
   return (
     <>
- <Marks/>
+    <Increment/>
 
     </>
   );
