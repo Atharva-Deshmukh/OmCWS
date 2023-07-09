@@ -1,11 +1,11 @@
 import './App.css';
-import Increment from './Increment';
+import SpreadOperator from './Spreadoperator';
 
 
 function App() {
   return (
     <>
-    <Increment/>
+    <SpreadOperator/>
 
     </>
   );
