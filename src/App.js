@@ -1,11 +1,11 @@
 import './App.css';
-import SpreadOperator from './Spreadoperator';
+import CaseConvertor from './CaseConvertor';
 
 
 function App() {
   return (
     <>
-    <SpreadOperator/>
+    <CaseConvertor/>
 
     </>
   );
