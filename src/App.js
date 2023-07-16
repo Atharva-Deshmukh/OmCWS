@@ -1,11 +1,12 @@
 import './App.css';
-import CaseConvertor from './CaseConvertor';
-
+import Rupee2Dollar from './Ruppee2Dollar';
+// import CaseConvertor from './CaseConvertor';
+// <CaseConvertor/>
 
 function App() {
   return (
     <>
-    <CaseConvertor/>
+     <Rupee2Dollar/>
 
     </>
   );
