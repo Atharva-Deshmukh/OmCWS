@@ -1,12 +1,15 @@
 import './App.css';
-import Rupee2Dollar from './Ruppee2Dollar';
+import BMICalculator from './BMI';
+// import Rupee2Dollar from './Ruppee2Dollar';
+// <Rupee2Dollar/>
+
 // import CaseConvertor from './CaseConvertor';
 // <CaseConvertor/>
 
 function App() {
   return (
     <>
-     <Rupee2Dollar/>
+     <BMICalculator/>
 
     </>
   );
